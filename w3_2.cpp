@@ -30,7 +30,7 @@ int main()
             printf("+");
         }
    	c=0;
-    b=b+1;
+        b=b+1;
   	printf("\n");
 	}
 	for(i=1;i<=(2*n)-1;i++)
