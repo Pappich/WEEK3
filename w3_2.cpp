@@ -17,7 +17,7 @@ int main()
 		{
             if(j<=i)
             {
-                printf("-");
+                printf(" ");
                 c  = c+1;
             }
             else
@@ -27,7 +27,7 @@ int main()
         }
         for(x=1;x<=c;x++)
 		{
-            printf("+");
+            printf(" ");
         }
    	c=0;
         b=b+1;
