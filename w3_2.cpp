@@ -2,7 +2,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 int main()
 {
-    int n,i,j,a,b,c,x;
+    int n,i,j,a,b;
     printf("Enter your number :");
     scanf("%d",&n);
     a = (2*n)-1;
